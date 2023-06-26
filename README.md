@@ -17,6 +17,8 @@ to address the issue. https://learn.microsoft.com/en-us/office/vba/api/excel.wor
 
 ### Sub TickerSummary
 
+The [] method that was used to set the cell/column names was shared by another classmate during a study session. It is easier than setting a cell or range equal to the name so I went with it.  
+
 I used the range.autofit method to format the columns in the sheet. https://learn.microsoft.com/en-us/office/vba/api/excel.range.autofit
 
 To set the last row in my for loop I used 'lastrow = Cells(Rows.Count, 1).End(xlUp).Row'
