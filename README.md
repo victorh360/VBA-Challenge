@@ -1,6 +1,6 @@
 # VBA-Challenge
 ## Description
-These are the files that compose my Module 2 Challenge for the WGU Data Abalytics Boot Camp.
+These are the files that compose my Module 2 Challenge for the WGU Data Analytics Boot Camp.
 
 This is definitely not the most sophisticated script poassible, but I was able to piece it with what I learned from in class 
 lectures and examples, along with online sources and study groups
